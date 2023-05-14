@@ -8,6 +8,3 @@ This is code of face recognition by MATLAB, writen by Romachen.
 
 ## code funciton
 
-## some disadvantage
-you can see in the guI code , it is not good, though I can run in the .m code , but I cannot totally run in the GUI, because I really don't know how to get it, hope you can help me.
-in the other way, this code have some disadvantage in the logic.
